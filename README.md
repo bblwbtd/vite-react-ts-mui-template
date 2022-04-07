@@ -1,4 +1,4 @@
-# Vite-react-ts-mui-template
+# vite-react-ts-mui-template
 
 This is a template for setting up a React project.
 
